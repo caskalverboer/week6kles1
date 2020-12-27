@@ -7,3 +7,11 @@ De ITIL versie die hier gebruikt wordt is ITIL versie 4.0
 <h1> Welke aspecten worden er gedekt met deze standaard? </h1>
 
 wdwd
+
+<h1> Wat zijn de sterke punten en wat zijn de minder sterke punten van deze standaard </h1>
+
+wdwd
+
+<h1> Wat doen de grote public cloud providers eigenlijk met deze standaard/framework? Conformeren zij zich hieraan? </h1>
+
+ff
