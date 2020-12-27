@@ -12,10 +12,10 @@ De ITIL versie die hier gebruikt wordt is ITIL versie 4.0
 
 wdwd
 
-<h2> Wat zijn de sterke punten en wat zijn de minder sterke punten van deze standaard </h2>
+<h2> Wat zijn de sterke punten en wat zijn de minder sterke punten van deze standaard? </h2>
 
 wdwd
 
 <h2> Wat doen de grote public cloud providers eigenlijk met deze standaard/framework? Conformeren zij zich hieraan? </h2>
 
-ff
+ITIL is iets wat zelf toegepast dient te worden. Dit doen de public Cloud providers zelf niet.
