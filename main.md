@@ -1,4 +1,4 @@
-<h1>Wat is ITIL?</h1>
+<h2>Wat is ITIL?</h2>
 
 ITIL staat voor: Information Technology Infrastructure Library. Het is een reeks best practices voor het leveren van IT-services. Het standaardiseert de selectie, planning, levering en ondersteuning van IT-services om de efficientie te maximaliseren en een voorspelbaar serviceniveau te handhaven.
 
