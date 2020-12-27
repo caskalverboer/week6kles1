@@ -8,6 +8,8 @@ ITIL staat voor: Information Technology Infrastructure Library. Het is een reeks
 
 De ITIL versie die hier gebruikt wordt is ITIL versie 4.0 
 
+![Image](https://www.joetheitguy.com/wp-content/uploads/2019/03/ITIL-service-lifecycle-.png)
+
 <h2> Welke aspecten worden er gedekt met deze standaard? </h2>
 
 wdwd
