@@ -12,7 +12,7 @@ De ITIL versie die hier gebruikt wordt is ITIL versie 4.0
 
 <h2> Hoe dit bijdraagt aan de governance van cloud processen, componenten, services, business en de mensen die ermee werken? </h2>
 
-ITIL 4 biedt een niveau van begeleiding dat de organisatie nodig heeft om nieuwe uitdagingen op het gebied van servicemanagement aan te pakken en het potentieel van moderne technologie te benutten. Cloudtechnologie kan ons helpen de klant beter van dienst te zijn en tegelijkertijd mogelijk te besparen voor de organisatie. Het is aan ons om de juiste keuzes te maken om de juiste redenen om de juiste resultaten te behalen. Hopelijk kan dit document u helpen de keuzes te begrijpen die u moet maken.
+ITIL 4 biedt een niveau van begeleiding dat de organisatie nodig heeft om nieuwe uitdagingen op het gebied van servicemanagement aan te pakken en het potentieel van moderne technologie te benutten. Cloudtechnologie kan ons helpen de klant beter van dienst te zijn en tegelijkertijd mogelijk te besparen voor de organisatie. Het is aan ons om de juiste keuzes te maken om de juiste redenen om de juiste resultaten te behalen.
 
 <h2> Welke Cloud governance aspecten worden er gedekt met deze standaard? </h2>
 
