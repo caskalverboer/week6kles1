@@ -10,7 +10,9 @@ De ITIL versie die hier gebruikt wordt is ITIL versie 4.0
 
 ![Image](https://www.joetheitguy.com/wp-content/uploads/2019/03/ITIL-service-lifecycle-.png)
 
-<h2> Welke aspecten worden er gedekt met deze standaard? </h2>
+<h2> Hoe dit bijdraagt aan de governancevan cloud processen, componenten, services, business en de mensen die ermee werken. </h2>
+
+<h2> Welke Cloud governance aspecten worden er gedekt met deze standaard? </h2>
 
 wdwd
 
