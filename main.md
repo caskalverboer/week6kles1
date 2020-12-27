@@ -25,3 +25,16 @@ wdwd
 <h2> Wat doen de grote public cloud providers eigenlijk met deze standaard/framework? Conformeren zij zich hieraan? </h2>
 
 ITIL is iets wat zelf toegepast dient te worden. Dit doen de public Cloud providers zelf niet.
+
+<h2> Bronnen </h2>
+
+https://www.cloudcredential.org/whitepapers/itil-4-and-the-cloud/
+
+https://enterprisersproject.com/article/2019/11/devops-vs-itil4-vs-SRE
+
+https://www.novelvista.com/blogs/it-service-management/itil4-devops-go-hand-in-hand
+
+
+
+  
+  
